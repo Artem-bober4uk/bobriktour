@@ -27,6 +27,6 @@ table{
     font-family: sans-serif;
 }
 .anextour{
-    text-decorations:"none";
-    color:"white";
+    text-decorations:none;
+    color:white;
 }
